@@ -1,1 +1,1 @@
-# PenSh
+# RustySh
